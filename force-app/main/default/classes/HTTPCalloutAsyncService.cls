@@ -18,7 +18,7 @@ public class HTTPCalloutAsyncService {
     String continuationState;
 
     /*
-    * Getter and Setters - Begin
+    * Getter    asd and Setters - Begin
     */
 	public List<String> getRequestLabels() {
 		return requestLabels;
