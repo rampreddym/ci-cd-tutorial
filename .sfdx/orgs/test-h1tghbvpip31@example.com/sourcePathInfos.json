@@ -1,0 +1,442 @@
+{
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1619240741027,
+    "changeTime": 1619240741027,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1619240741027,
+    "changeTime": 1619240741027,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1619240741129,
+    "changeTime": 1619240741129,
+    "contentHash": "7df945e0bb078d7c190ded69ebb6e00139c4d340",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1619240741052,
+    "changeTime": 1619240741052,
+    "contentHash": "06ed01674936bece40657e98aeaab679a38f896a",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncService.cls": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncService.cls",
+    "size": 4285,
+    "modifiedTime": 1619493420036,
+    "changeTime": 1619493420036,
+    "contentHash": "af67e78ab0e086e28b37b4ba4121687bbcc8d074",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass",
+    "deferContentHash": true
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncService.cls-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncService.cls-meta.xml",
+    "size": 179,
+    "modifiedTime": 1619240741029,
+    "changeTime": 1619240741029,
+    "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncServiceTest.cls": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncServiceTest.cls",
+    "size": 5925,
+    "modifiedTime": 1619240741044,
+    "changeTime": 1619240741044,
+    "contentHash": "2bf3329aa1226de868fa7c37b8f41d2db4bd44ae",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncServiceTest.cls-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutAsyncServiceTest.cls-meta.xml",
+    "size": 179,
+    "modifiedTime": 1619240741045,
+    "changeTime": 1619240741045,
+    "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutFrameworkException.cls": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutFrameworkException.cls",
+    "size": 765,
+    "modifiedTime": 1619240741045,
+    "changeTime": 1619240741045,
+    "contentHash": "9ce4229ef7a660b036023c9c9b18f43cfa30e67d",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutFrameworkException.cls-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutFrameworkException.cls-meta.xml",
+    "size": 179,
+    "modifiedTime": 1619240741046,
+    "changeTime": 1619240741046,
+    "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutService.cls": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutService.cls",
+    "size": 9297,
+    "modifiedTime": 1619240741047,
+    "changeTime": 1619240741047,
+    "contentHash": "3fbc94176da8eec204861575cfce1faaeb6b8439",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutService.cls-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutService.cls-meta.xml",
+    "size": 179,
+    "modifiedTime": 1619240741048,
+    "changeTime": 1619240741048,
+    "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMock.cls": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMock.cls",
+    "size": 2848,
+    "modifiedTime": 1619240741048,
+    "changeTime": 1619240741048,
+    "contentHash": "7518f0d59cf1bb267bd418d5f3a869c9af7e55dd",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMock.cls-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMock.cls-meta.xml",
+    "size": 179,
+    "modifiedTime": 1619240741049,
+    "changeTime": 1619240741049,
+    "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMultiMock.cls": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMultiMock.cls",
+    "size": 1772,
+    "modifiedTime": 1619240741050,
+    "changeTime": 1619240741050,
+    "contentHash": "a258b6c53d40acd190ac50225e0e577b9fd8c6e1",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMultiMock.cls-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceMultiMock.cls-meta.xml",
+    "size": 179,
+    "modifiedTime": 1619240741051,
+    "changeTime": 1619240741051,
+    "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceTest.cls": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceTest.cls",
+    "size": 9280,
+    "modifiedTime": 1619240741052,
+    "changeTime": 1619240741052,
+    "contentHash": "c2b078d0d8c195dcf670337024ac78e5e74813af",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceTest.cls-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\classes\\HTTPCalloutServiceTest.cls-meta.xml",
+    "size": 179,
+    "modifiedTime": 1619240741052,
+    "changeTime": 1619240741052,
+    "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\customMetadata": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\customMetadata",
+    "isDirectory": true,
+    "modifiedTime": 1619240741060,
+    "changeTime": 1619240741060,
+    "contentHash": "9ec6b615a4bd80fe2a7e61fb51d53c6032fbb793",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\customMetadata\\HTTPCalloutConfiguration.SFDCStopBlogs.md-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\customMetadata\\HTTPCalloutConfiguration.SFDCStopBlogs.md-meta.xml",
+    "size": 1279,
+    "modifiedTime": 1619240741053,
+    "changeTime": 1619240741053,
+    "contentHash": "0d3136c06980e5106fac303d24c0df52849e7025",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomMetadata"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\customMetadata\\HTTPCalloutConfiguration.TestMetadata.md-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\customMetadata\\HTTPCalloutConfiguration.TestMetadata.md-meta.xml",
+    "size": 1327,
+    "modifiedTime": 1619240741063,
+    "changeTime": 1619240741063,
+    "contentHash": "b7db42570a15681a867e34dccfe4091e658821af",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomMetadata"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\layouts": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1619240741070,
+    "changeTime": 1619240741070,
+    "contentHash": "768ffa3940be6d59e4952813a0888532315feade",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\layouts\\HTTPCalloutConfiguration__mdt-HTTPCalloutConfiguration Layout.layout-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\layouts\\HTTPCalloutConfiguration__mdt-HTTPCalloutConfiguration Layout.layout-meta.xml",
+    "size": 3713,
+    "modifiedTime": 1619240741071,
+    "changeTime": 1619240741071,
+    "contentHash": "e9b2e49a62eac79316709df032fe23c7911af6e7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\lwc": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1619240789648,
+    "changeTime": 1619240789648,
+    "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1619240741087,
+    "changeTime": 1619240741087,
+    "contentHash": "0bca8bef33d4399f1b20646b11639b0148372b15",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt",
+    "isDirectory": true,
+    "modifiedTime": 1619240741118,
+    "changeTime": 1619240741118,
+    "contentHash": "fad8e289d1e2deedae634b3f586251e1c4991836",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\HTTPCalloutConfiguration__mdt.object-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\HTTPCalloutConfiguration__mdt.object-meta.xml",
+    "size": 382,
+    "modifiedTime": 1619240741089,
+    "changeTime": 1619240741089,
+    "contentHash": "a643099e298feb78dc7e7de3059769f182ded7bf",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomObject"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1619240741116,
+    "changeTime": 1619240741116,
+    "contentHash": "d6829f9329361e6746633d80b399dafbfb1edbfb",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Body__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Body__c.field-meta.xml",
+    "size": 473,
+    "modifiedTime": 1619240741094,
+    "changeTime": 1619240741094,
+    "contentHash": "385300f215fd7e692f574ea5f771877e111b59e8",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\CertificateName__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\CertificateName__c.field-meta.xml",
+    "size": 548,
+    "modifiedTime": 1619240741096,
+    "changeTime": 1619240741096,
+    "contentHash": "ae0b9afd63cc95ec28f66b898c2e7ce0e4020e22",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Endpoint__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Endpoint__c.field-meta.xml",
+    "size": 452,
+    "modifiedTime": 1619240741111,
+    "changeTime": 1619240741111,
+    "contentHash": "0f1b59b14b6c537ce1727dc9bcccaa628a511c09",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\HeaderParameters__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\HeaderParameters__c.field-meta.xml",
+    "size": 606,
+    "modifiedTime": 1619240741112,
+    "changeTime": 1619240741112,
+    "contentHash": "f1e0aba7a6e1dc6649944c61a1247dfa6c61e5d1",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\IsCompressed__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\IsCompressed__c.field-meta.xml",
+    "size": 610,
+    "modifiedTime": 1619240741113,
+    "changeTime": 1619240741113,
+    "contentHash": "5365983c999d78a56742ae9681cbd7293266e103",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Method__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Method__c.field-meta.xml",
+    "size": 1466,
+    "modifiedTime": 1619240741114,
+    "changeTime": 1619240741114,
+    "contentHash": "62ec1edb1d0cc76bd2f5e69b21f57551f38516d0",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Timeout__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\Timeout__c.field-meta.xml",
+    "size": 608,
+    "modifiedTime": 1619240741115,
+    "changeTime": 1619240741115,
+    "contentHash": "ff597a305ab8724a942c771faa5173864003ba32",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\URLParameters__c.field-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\fields\\URLParameters__c.field-meta.xml",
+    "size": 594,
+    "modifiedTime": 1619240741117,
+    "changeTime": 1619240741117,
+    "contentHash": "ed747c9ce2899bdff4a71717445d091f0d1c5904",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\validationRules": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\validationRules",
+    "isDirectory": true,
+    "modifiedTime": 1619240741118,
+    "changeTime": 1619240741118,
+    "contentHash": "040f0e3f8c979c5b8d155932a8c27340d8ec91f6",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\validationRules\\TimeoutLimit.validationRule-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\objects\\HTTPCalloutConfiguration__mdt\\validationRules\\TimeoutLimit.validationRule-meta.xml",
+    "size": 420,
+    "modifiedTime": 1619240741119,
+    "changeTime": 1619240741119,
+    "contentHash": "4b68b2b6f53c4c5c55fa6560eba685cbe8faa0c6",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ValidationRule"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\profiles": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\profiles",
+    "isDirectory": true,
+    "modifiedTime": 1619240741128,
+    "changeTime": 1619240741128,
+    "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+    "size": 22529,
+    "modifiedTime": 1619240741128,
+    "changeTime": 1619240741128,
+    "contentHash": "e423c5cab8ed0880220d8f310a6c251551c6be6f",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\remoteSiteSettings": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\remoteSiteSettings",
+    "isDirectory": true,
+    "modifiedTime": 1619240741129,
+    "changeTime": 1619240741129,
+    "contentHash": "0fce1fcc37eb9e78b8817c9ad866e2e0b4cb8850",
+    "state": "u",
+    "package": "force-app"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\remoteSiteSettings\\SFDCStopAPI.remoteSite-meta.xml": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial\\force-app\\main\\default\\remoteSiteSettings\\SFDCStopAPI.remoteSite-meta.xml",
+    "size": 271,
+    "modifiedTime": 1619240741130,
+    "changeTime": 1619240741130,
+    "contentHash": "72bfe7c9a0c89ef3215d7aa5aa548a5dd5835798",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "RemoteSiteSetting"
+  },
+  "c:\\Salesforce sample\\ci-cd-tutorial": {
+    "sourcePath": "c:\\Salesforce sample\\ci-cd-tutorial",
+    "isDirectory": true,
+    "modifiedTime": 1619240787787,
+    "changeTime": 1619240787787,
+    "contentHash": "583dd2a3b104a9b1458af8ca66df43fa49cfff39",
+    "state": "u",
+    "isWorkspace": true
+  }
+}
